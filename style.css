@@ -1,3 +1,19 @@
 h1 {
-  color: yellow;
+  color: blue;
+  text-align: center;
+}
+h2 {
+  color: red;
+  font-style: oblique;
+  text-align: left;
+}
+p {
+  font-family: sans-serif;
+}
+ul {
+  line-height: 40px;
+}
+h3 {
+  color: #0000ff
+
 }
